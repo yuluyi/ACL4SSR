@@ -9,3 +9,6 @@ DOMAIN-KEYWORD,openaicom
 # Add stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
+
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalkapps.com
